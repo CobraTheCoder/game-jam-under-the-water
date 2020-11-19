@@ -1,18 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`cD3Tn)KFmOZxagVx;SB">mySprite</variable><variable type="KIND_SpriteKind" id="FOtIu|V/lQ`b@=Vui)+b">Player</variable><variable type="KIND_SpriteKind" id="tou7pEmomPa$U~+F=^e%">Projectile</variable><variable type="KIND_SpriteKind" id="7(]b_W$cDqq4^]$HS6Qt">Food</variable><variable type="KIND_SpriteKind" id="O0snO;0+iZe8I:5*D~R,">Enemy</variable></variables><block type="pxt-on-start" id="F4g%~s7*enHnJhng+u3~" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="A6AHBWWg^KC{i{^TdL_Y"><field name="VAR" id="`cD3Tn)KFmOZxagVx;SB">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="86lVL0UI%PVMkuY9hEJ2"><value name="img"><shadow type="screen_image_picker" id="9r[1!r[liUeDpaAzvS#P"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="P(1LGq^?KH%i,T][JNSw"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`cD3Tn)KFmOZxagVx;SB">mySprite</variable><variable type="KIND_SpriteKind" id="FOtIu|V/lQ`b@=Vui)+b">Player</variable><variable type="KIND_SpriteKind" id="tou7pEmomPa$U~+F=^e%">Projectile</variable><variable type="KIND_SpriteKind" id="7(]b_W$cDqq4^]$HS6Qt">Food</variable><variable type="KIND_SpriteKind" id="O0snO;0+iZe8I:5*D~R,">Enemy</variable></variables></xml>
